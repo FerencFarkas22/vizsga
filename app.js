@@ -95,4 +95,4 @@ prevBtn.addEventListener("click", prevSong);
 //Ha a zene végetért lépjen a következőre
 audio.addEventListener("ended", nextSong);
 
-
+console.log("Betöltött az oldal");
